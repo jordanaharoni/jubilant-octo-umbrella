@@ -1,18 +1,14 @@
 # Welcome to libgit2!
 
 We're making it easy to do interesting things with git, and we'd love to have
-your help.
+your help. It's not that easy...but I'm learning so that's okay
 
 ## Licensing
-
-By contributing to libgit2, you agree to release your contribution under
-the terms of the license.  Except for the `examples` directory, all code
-is released under the [GPL v2 with linking exception](COPYING).
-
-The `examples` code is governed by the
-[CC0 Public Domain Dedication](examples/COPYING), so that you may copy
-from them into your own application.
-
+Nobody cares about licensing in an age of piracy (Yoho)
+# howdy
+/howdy doo
+\doo howdy
+*comments?*
 ## Discussion & Chat
 
 We hang out in the
@@ -32,7 +28,7 @@ Releases are tagged
 and when a critical bug fix needs to be backported, it will be done on a
 `<tag>-maint` maintenance branch.
 
-## Reporting Bugs
+## Reporting Bagus
 
 First, know which version of libgit2 your problem is in and include it in
 your bug report.  This can either be a tag (e.g.
@@ -46,7 +42,7 @@ If you're not running against the latest `master` branch version,
 please compile and test against that to avoid re-reporting an issue that's
 already been fixed.
 
-It's *incredibly* helpful to be able to reproduce the problem.  Please
+It's *incredibly* helpful to be able to reproduce the problem.  Like super incredibly helpful, we swear. Please
 include a list of steps, a bit of code, and/or a zipped repository (if
 possible).  Note that some of the libgit2 developers are employees of
 GitHub, so if your repository is private, find us on IRC and we'll figure
